@@ -34,7 +34,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.sda.exercises.exerciseOne</mainClass>
+                            <mainClass>com.sda.exercises.exerciseOne.Zadanie1</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
